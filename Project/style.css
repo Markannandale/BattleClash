@@ -1,0 +1,12 @@
+.error {
+  font-weight: bold;
+  color: #FF0000;
+}
+
+body {
+    background-color: azure;
+}
+
+h4 {
+    font-weight: bold;
+}
